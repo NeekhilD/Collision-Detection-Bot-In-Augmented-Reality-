@@ -7,6 +7,8 @@
 A tele robotic operator uses a visual image of the remote workspace to guide the robot. Annotation of the view would still be useful just as it is when the scene is in front of the operator. There is an added potential benefit. The robot motion could then be executed directly which in a tele robotics application would eliminate any oscillations caused by long delays to the remote site.
 
 
+# OUTPUT :
+<img width="1433" alt="screenshot 2018-11-13 at 12 35 33 am" src="https://user-images.githubusercontent.com/26859754/48369314-31f2f600-e6dc-11e8-9f17-c625e212d2b0.png">
 
 
 `Neekhil Dafade`
