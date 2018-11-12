@@ -13,3 +13,4 @@ A tele robotic operator uses a visual image of the remote workspace to guide the
 :+1: 
 :octocat:
 
+![sygw](https://user-images.githubusercontent.com/26859754/48368592-28688e80-e6da-11e8-9c9a-aab32f25745b.gif)
