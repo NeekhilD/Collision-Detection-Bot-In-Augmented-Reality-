@@ -1,5 +1,5 @@
 # Associated with : ![binary piece](https://user-images.githubusercontent.com/26859754/48367235-171d8300-e6d6-11e8-9a7b-661f6f365149.png)
-MINE
+
 
 # ` Collision Detection Bot In Augmented Reality `
 
