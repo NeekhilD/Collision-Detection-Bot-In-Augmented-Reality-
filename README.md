@@ -8,7 +8,8 @@ A tele robotic operator uses a visual image of the remote workspace to guide the
 
 
 # OUTPUT :
-<img width="1433" alt="screenshot 2018-11-13 at 12 35 33 am" src="https://user-images.githubusercontent.com/26859754/48369314-31f2f600-e6dc-11e8-9f17-c625e212d2b0.png">
+<img width="1433" alt="screenshot 2018-11-13 at 12 35 33 am" src="https://user-images.githubusercontent.com/26859754/48369506-c3fafe80-e6dc-11e8-8966-81963d71f020.png">
+
 
 
 `Neekhil Dafade`
