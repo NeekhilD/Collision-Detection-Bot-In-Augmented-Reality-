@@ -13,5 +13,3 @@ A tele robotic operator uses a visual image of the remote workspace to guide the
 :+1: 
 :octocat:
 
-![tumblr_nxop2rkaga1sbqrlmo5_500](https://user-images.githubusercontent.com/26859754/48367860-05d57600-e6d8-11e8-9755-054ce9d82ede.gif)
-
